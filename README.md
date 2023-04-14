@@ -2,4 +2,8 @@
 
 enam
 lolo
-=======
+<<<<<<< HEAD
+
+
+just playing around
+>>>>>>> develop
