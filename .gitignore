@@ -138,3 +138,9 @@ build/
 *.pyo
 *.egg-info/
 
+*.dvc
+data
+data_versioning
+.ipynb_checkpoints
+
+
